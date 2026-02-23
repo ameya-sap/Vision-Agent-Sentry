@@ -1,0 +1,7 @@
+tensorflow
+google-adk
+google-genai
+pillow
+certifi
+numpy
+python-dotenv
