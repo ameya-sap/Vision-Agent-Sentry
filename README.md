@@ -8,7 +8,7 @@ Specialized Computer Vision (CV) models remain essential in the era of LLMs due 
 
 ![Eyes Meet Brain](images/eyes_meets_brain.jpeg)
 
-*For a deeper dive into this architecture, stay tuned for our upcoming blog post (link coming soon).*
+*For a deeper dive into this architecture, check out our blog post:* **[The Eyes and the Brain: Why Specialized Image ML Still Rules in the Era of LLMs](https://medium.com/@ameyaps_98908/the-eyes-and-the-brain-why-specialized-image-ml-still-rules-in-the-era-of-llms-acc3d14fcfe8)**
 
 ## Features
 - **Local Vision**: Uses [MobileNetV2](https://research.google/blog/mobilenetv2-the-next-generation-of-on-device-computer-vision-networks/) for fast, efficient object detection.
